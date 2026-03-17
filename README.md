@@ -107,7 +107,7 @@ streamlit run app.py
 ```
 
 ## Repository Structure
-
+```bash
 CRICBUZZ_DASHBOARD
 │
 ├── app.py
@@ -123,6 +123,7 @@ CRICBUZZ_DASHBOARD
 ├── data/
 ├── Cricbuzz.docx
 └── .env
+```
 
 ## Conclusion
 
