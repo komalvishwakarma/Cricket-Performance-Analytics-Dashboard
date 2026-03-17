@@ -98,10 +98,13 @@ To build an end-to-end cricket analytics application that:
 
 ```bash
 pip install -r requirements.txt
+```
 
 2. Run the Streamlit app:
 
+```bash
 streamlit run app.py
+```
 
 ## Repository Structure
 
